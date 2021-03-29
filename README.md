@@ -1,10 +1,7 @@
-Hey, I'm Svetlana (also: Sveta, or Lana), full-stack JavaScript Engineer focused on NERD stack
+Hey, I'm Svetlana (also: Sveta, or Lana), a full-stack JavaScript Engineer focused on NERD stack:
 
 
-
-
-
-[](https://commons.wikimedia.org/wiki/File:React-icon.svg)
+[React](https://commons.wikimedia.org/wiki/File:React-icon.svg)
 
 
 I hail from Russia but I moved to New York about 6 years ago.
