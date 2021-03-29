@@ -4,7 +4,6 @@
 ![Express](https://kalvanaveen.github.io/WebDevelopmentResources.github.io/Images/Express-JS-min.png)
 ![Sequelize](https://sequelize.org/v4/manual/asset/logo-small.png)
 ![PostgreSQL](https://d7umqicpi7263.cloudfront.net/img/product/e3f98154-0f42-427d-91b5-6dd0b54a3427/c877db83-e4a7-4191-8574-4479d7d69580.png)
-
 ![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png)
 ![Redux](https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png)
 
