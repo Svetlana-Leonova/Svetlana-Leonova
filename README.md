@@ -1,7 +1,7 @@
 ### Hey, I'm Svetlana (also: Sveta, or Lana), a full-stack JavaScript Engineer focused on NERD stack:
 
-![Node](https://ubuntu.dirkschmidtke.de/wp-content/uploads/2018/04/nodejs-square.png)
-![Express](https://www.mementotech.in/assets/images/icons/express.png)
+![Node](https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png)
+![Express](https://kalvanaveen.github.io/WebDevelopmentResources.github.io/Images/Express-JS-min.png)
 ![Sequelize](https://sequelize.org/v4/manual/asset/logo-small.png)
 ![PostgreSQL](https://d7umqicpi7263.cloudfront.net/img/product/e3f98154-0f42-427d-91b5-6dd0b54a3427/c877db83-e4a7-4191-8574-4479d7d69580.png)
 
