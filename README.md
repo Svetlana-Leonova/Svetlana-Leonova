@@ -1,11 +1,9 @@
 ### Hey, I'm Svetlana (also: Sveta, or Lana), a full-stack JavaScript Engineer focused on NERD stack:
 
-![Node](https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png)
-![Express](https://kalvanaveen.github.io/WebDevelopmentResources.github.io/Images/Express-JS-min.png)
-![Sequelize](https://sequelize.org/v4/manual/asset/logo-small.png)
-![PostgreSQL](https://d7umqicpi7263.cloudfront.net/img/product/e3f98154-0f42-427d-91b5-6dd0b54a3427/c877db83-e4a7-4191-8574-4479d7d69580.png)
-![React](https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png)
-![Redux](https://cdn.iconscout.com/icon/free/png-256/redux-283024.png)
+![NodeExpress](https://www.iconninja.com/files/486/38/391/install-npm-js-node-javascript-tools-development-icon.png)
+![React](https://video-react.js.org/assets/logo.png)
+![Redux](https://cdn.iconscout.com/icon/free/png-128/redux-283024.png)
+![Postgres](https://wiki.postgresql.org/images/a/ac/PostgreSQL_logo.1color_white.120x120.png)
 
 
 I hail from Russia but I moved to New York about 6 years ago.
