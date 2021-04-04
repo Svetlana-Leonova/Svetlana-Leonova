@@ -2,8 +2,7 @@
 
 ![NodeExpress](https://www.iconninja.com/files/486/38/391/install-npm-js-node-javascript-tools-development-icon.png)
 ![React](https://video-react.js.org/assets/logo.png)
-![Redux](https://cdn.iconscout.com/icon/free/png-128/redux-283024.png)
-![Postgres](https://wiki.postgresql.org/images/a/ac/PostgreSQL_logo.1color_white.120x120.png)
+![Postgres](https://icons-for-free.com/iconfiles/png/128/postgresql+plain+wordmark-1324760555518154961.png)
 
 
 I hail from Russia but I moved to New York about 6 years ago.
