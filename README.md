@@ -1,8 +1,9 @@
 ### Hey, I'm Svetlana (also: Sveta, or Lana), a full-stack JavaScript Engineer focused on NERD stack:
 
+![Postgres](https://icons-for-free.com/iconfiles/png/128/postgresql+plain+wordmark-1324760555518154961.png)
 ![NodeExpress](https://www.iconninja.com/files/486/38/391/install-npm-js-node-javascript-tools-development-icon.png)
 ![React](https://video-react.js.org/assets/logo.png)
-![Postgres](https://icons-for-free.com/iconfiles/png/128/postgresql+plain+wordmark-1324760555518154961.png)
+
 
 
 I hail from Russia but I moved to New York about 6 years ago.
