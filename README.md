@@ -21,4 +21,4 @@ In the meantime, check out my [LinkedIn](https://www.linkedin.com/in/svetlana-le
 * 😄 Pronouns: she/her/hers
 * ⚡ Fun fact: I'm a leftie, and I can write anything backwards (from right to left, so that you can read it with a mirror)
 
-[![Sveta's GitHub stats](https://github-readme-stats-svetlana-leonova.vercel.app/api?username=svetlana-leonova&count_private=true&show_icons=true&theme=blueberry)](https://github.com/svetlana-leonova/github-readme-stats)
+[![Sveta's GitHub stats](https://github-readme-stats-delta-tawny-99.vercel.app/api?username=svetlana-leonova&count_private=true&show_icons=true&theme=blueberry)](https://github.com/svetlana-leonova/github-readme-stats)
