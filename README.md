@@ -1,1 +1,1 @@
-[![Sveta's GitHub stats](https://github-readme-stats-delta-tawny-99.vercel.app/api?username=svetlana-leonova&show_icons=true&theme=transparent)](https://github.com/svetlana-leonova/github-readme-stats)
+
